@@ -112,6 +112,7 @@ public class Controller {
             File saida = new File(fc.getSelectedFile().getAbsolutePath());
             FileWriter fw = new FileWriter(saida);
             fw.write(txta_resultado.getText());
+            fw.close();
         } else if (status == JFileChooser.ERROR_OPTION) {
             // Tratar o erro posteriormente.
         }
