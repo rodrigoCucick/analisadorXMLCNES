@@ -7,8 +7,8 @@ Baixe o arquivo JAR **[aqui](https://github.com/rodrigoCucick/analisadorXMLCNES/
 
 ![image](https://user-images.githubusercontent.com/16089829/141659229-9d64eaf3-ac5e-49fa-8682-33c9f11db982.png)
 
-É necessário possuir Java instalado em sua máquina para executar programa, caso ainda não possua, realize o download **[aqui](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)**.
+É necessário possuir Java instalado em sua máquina para executar o programa, caso ainda não possua, realize o download **[aqui](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)**.
 
-Caso o arquivo JAR não abra após um clique duplo, execute o arquivo chamado **executar.bat**, o qual executará apenas a seguinte instrução: *java -jar analisadorXMLCNES.jar*.
+Caso o arquivo JAR **analisadorXMLCNES.jar** não abra após um clique duplo no mesmo, execute o arquivo chamado **executar.bat**, o qual executará apenas a seguinte instrução: *java -jar analisadorXMLCNES.jar*.
 
 *Projeto construído na IDE IntelliJ IDEA e compilado com Java 1.8.0_291.*
